@@ -8,8 +8,6 @@ Developed an application for food ordering with different food categories. At th
 
 https://user-images.githubusercontent.com/118799235/204126919-57387f62-7380-4c56-9485-eaa68515345d.mp4
 
-Insert gif or link to demo
-
 
 ## Tech Stack
 
